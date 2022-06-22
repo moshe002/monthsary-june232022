@@ -59,7 +59,7 @@ body .pic-container img:hover {
         margin: 0;
         padding: 0;
         scroll-behavior: smooth;
-        /* overflow-x: hidden; */
+        overflow-x: hidden;
     }
 
     body {
@@ -83,6 +83,10 @@ body .pic-container img:hover {
     }
 
     body .body-text h3 {
+        padding: 0 1rem;
+    }
+
+    body .body-text h1 {
         padding: 0 1rem;
     }
 
